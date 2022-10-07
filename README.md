@@ -1,10 +1,10 @@
 # TODO
 
 Requirements:
-- Todo Model
-- TodoController
-- TodoFactory
-- create todo migration
-- TodoSeeder
-- config vars (optional)
-- routes for crud
+[x] Todo Model
+[ ] TodoController
+[x] TodoFactory
+[x] create todo migration
+[x] TodoSeeder
+[x] config vars (optional)
+[ ] routes for crud
